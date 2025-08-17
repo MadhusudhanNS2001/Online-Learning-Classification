@@ -1,0 +1,4 @@
+Class,Accuracy,Precision,Sensitivity,Specificity,F-Score,Kappa Score,Mathews Correlation Coefficient
+Not-Understand,0.9627,0.9390,0.8753,0.9908,0.9169,0.8958,0.8974
+Understand,0.9671,0.9937,0.9908,0.8753,0.9788,0.8958,0.8974
+Average,0.9649,0.9664,0.9330,0.9330,0.9479,0.8958,0.8974
