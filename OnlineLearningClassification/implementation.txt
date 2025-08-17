@@ -1,0 +1,24 @@
++----------------+---------------+
+| Online Learning Classification |
++----------------+---------------+
+
+    1. Dataset
+        https://www.kaggle.com/datasets/madyanomar/eeg-data-distance-learning-environment
+
+    2. Preprocessing
+        -> Data Merge
+            Merge Important Cols From Video and Subject Data Files
+        -> Replacing Categorical To Numerical Values
+
+    3. Classification
+        -> Train:Test Ratio 70:30
+        -> Deep Stacked Sparse AutoEncoder With NADAM Optimizer
+
+    4. Evaluation
+        -> Accuracy
+        -> Precision
+        -> Sensitivity
+        -> Specificity
+        -> F1-Score
+        -> Mathhews Correlation Coefficient
+        -> Kappa Score
